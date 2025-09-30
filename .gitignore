@@ -1,0 +1,12 @@
+# Build artifacts
+profiler_test
+profiler_overhead
+
+# macOS metadata
+.DS_Store
+
+# IDE/editor caches
+*.swp
+*.swo
+.vscode/
+.idea/
